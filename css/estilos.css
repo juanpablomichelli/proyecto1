@@ -3,6 +3,10 @@ body{
     color: blue;
 }
 
+header{
+    background-color: aquamarine;
+}
+
 main{
     background-color: aqua;
 }
