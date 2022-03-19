@@ -6,3 +6,8 @@ body{
 main{
     background-color: aqua;
 }
+
+footer{
+    color: white;
+    background-color: orange;
+}
